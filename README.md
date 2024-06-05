@@ -6,7 +6,7 @@ I'm a passionate software developer with a keen interest in creating innovative 
 ## 🌱 Currently Learning
 I'm currently diving into:
 - Cloud Services (AWS, Azure, Google Cloud)
-- DevOps Practices
+- Data structures and algorithms 
 - Full-Stack Development
 
 ## 💞️ Collaboration
