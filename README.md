@@ -1,18 +1,18 @@
 # 👋 Hi, I’m @Nithya-sri-R
 
 ## About Me
-I'm a passionate software developer with a keen interest in creating innovative solutions and learning new technologies.
+I'm a passionate Full-Stack developer with a keen interest in creating innovative solutions and learning new technologies.
 
 ## 🌱 Currently Learning
 I'm currently diving into:
-- Cloud Services (AWS, Azure, Google Cloud)
-- Data structures and algorithms 
 - Full-Stack Development
+- Data structures and algorithms 
+- Cloud Services (AWS, Azure, Google Cloud)
 
 ## 💞️ Collaboration
 I'm looking to collaborate on projects related to:
-- Cloud Computing and Services
 - Web and Mobile Application Development
+- Cloud Computing and Services
 - Open Source Contributions
 
 ## 📫 How to Reach Me
