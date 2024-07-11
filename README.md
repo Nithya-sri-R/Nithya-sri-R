@@ -12,9 +12,9 @@ I'm a passionate software developer with a focus on backend and full-stack devel
 
 - 🔭 I’m currently working on a **Web Development**
 - 🌱 I’m currently learning **
-        Spring Boot for backend development/
-        Cloud Services such as AWS, Azure, and Google Cloud/
-        Data structures and algorithms to strengthen my problem-solving skills**
+       - Spring Boot for backend development/
+       - Cloud Services such as AWS, Azure, and Google Cloud/
+       - Data structures and algorithms to strengthen my problem-solving skills**
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **Node.js, React, MongoDB, and Java**
 - 📫 How to reach me: **rnithyasri34@gmail.com**
@@ -36,9 +36,6 @@ I'm a passionate software developer with a focus on backend and full-stack devel
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Nithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nithya-sri-R&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 
