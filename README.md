@@ -11,10 +11,10 @@
 I'm a passionate software developer with a focus on backend and full-stack development. I enjoy creating efficient and scalable solutions to complex problems.
 
 - 🔭 I’m currently working on a **Web Development**
-- 🌱 I’m currently learning **
+- 🌱 I’m currently learning 
        - Spring Boot for backend development/
        - Cloud Services such as AWS, Azure, and Google Cloud/
-       - Data structures and algorithms to strengthen my problem-solving skills**
+       - Data structures and algorithms to strengthen my problem-solving skills
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **Node.js, React, MongoDB, and Java**
 - 📫 How to reach me: **rnithyasri34@gmail.com**
@@ -47,7 +47,7 @@ I'm a passionate software developer with a focus on backend and full-stack devel
 
 If you like my work, consider buying me a coffee ☕
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/your-coffee-link)
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://buymeacoffee.com/)
 
 ---
 
