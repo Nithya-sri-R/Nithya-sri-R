@@ -1,6 +1,5 @@
 # Hi there, I'm Nithya Sri R 👋
 
-![Profile views](https://gpvc.arturio.dev/Nithya-sri-R)
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
@@ -11,10 +10,7 @@
 I'm a passionate software developer with a focus on backend and full-stack development. I enjoy creating efficient and scalable solutions to complex problems.
 
 - 🔭 I’m currently working on a **Web Development**
-- 🌱 I’m currently learning 
-       - Spring Boot for backend development/
-       - Cloud Services such as AWS, Azure, and Google Cloud/
-       - Data structures and algorithms to strengthen my problem-solving skills
+- 🌱 I’m currently learning **Cloud Services such as AWS, Azure, and Google Cloud**
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **Node.js, React, MongoDB, and Java**
 - 📫 How to reach me: **rnithyasri34@gmail.com**
